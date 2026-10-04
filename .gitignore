@@ -1,0 +1,26 @@
+# Original challenge evidence
+Original-evidence/
+
+# Large/raw challenge data
+*.7z
+*.mp3
+*.wav
+
+# Generated audio/intermediate processing files
+Challenge-3-Audio/*.wav
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Virtual environments
+venv/
+.venv/
+
+# Extracted challenge log data
+Challenge-2-Logs/web_activity/
